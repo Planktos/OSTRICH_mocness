@@ -1,0 +1,17 @@
+ Tow: 13-OF-N-OUT   RVWS/WS15161
+ Date: 15/06/2015
+ Temperature Probe #  4762    Conductivity Probe #  710   Pressure Probe #  159
+ Flow Meter Calibration  4.71 (m/count)  
+                          MOCNESS STATISTICAL SUMMARY
+              
+net#   pmin   pmax   pavg   tmin   tmax   tavg   thmin  thmax  thavg  smin   smax   savg
+              
+net#   simin  simax  siavg  cmin   cmax   cavg   fmin   fmax   favg   oxmin  oxmax  oxavg
+              
+net#      irrmin        irrmax       irravg
+              
+net#   amin   amax   aavg   spmin  spmax  spavg  armin  armax  aravg     #obs      vol
+              
+net#   Yearday/Time  hh:mm:ss  pmin      pmax     pavg     #obs     vol
+                   (NetOpenTime)
+ 1       165.849954  20:23:56

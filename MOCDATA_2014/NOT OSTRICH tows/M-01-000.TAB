@@ -1,0 +1,22 @@
+ Tow: M-01-000   RVWS/WS1405
+ Date: 04/30/2014
+ Temperature Probe #  2597    Conductivity Probe #  2870   Pressure Probe #  109
+ Flow Meter Calibration  4.71 (m/count)  
+                          MOCNESS STATISTICAL SUMMARY
+              
+net#   pmin   pmax   pavg   tmin   tmax   tavg   thmin  thmax  thavg  smin   smax   savg
+ 1     001.6  002.2  114.8  27.0   27.2   1678.4 27.0   27.2   1678.3 50.00  50.00  3100.00
+              
+net#   simin  simax  siavg  cmin   cmax   cavg   fmin   fmax   favg   oxmin  oxmax  oxavg
+ 1     34.02  34.06  2110.9600.00  00.00  00.00  00.00  00.00  00.00  00.0   00.0   00.0
+              
+net#      irrmin        irrmax       irravg
+ 1     0.000000000 0.000000000 0.000000000
+              
+net#   amin   amax   aavg   spmin  spmax  spavg  armin  armax  aravg     #obs      vol
+ 1      67.0  69.0   4235.0 00.0   00.0   00.0   -01.0 00.6    -07.4     00062     00000
+              
+net#   Yearday/Time  hh:mm:ss  pmin      pmax     pavg     #obs     vol
+                   (NetOpenTime)
+ 1       120.881204  21:8:56   001.6    002.2    114.8    00062    00000
+ 2       120.855602  20:32:4 
